@@ -23,5 +23,5 @@ The GameDatabase Application is a JavaFX-based application that allows users to 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/gamedatabase-application.git
+git clone [https://github.com/yourusername/gamedatabase-application.git](https://github.com/Smile521-d/games-database.git)
 cd gamedatabase-application
